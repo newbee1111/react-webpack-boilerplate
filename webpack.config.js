@@ -1,6 +1,6 @@
-const webpack = require('C:/Users/17173/AppData/Local/Microsoft/TypeScript/2.9/node_modules/@types/webpack')
+const webpack = require('webpack')
 const path = require('path')
-const HtmlWebpackPlungin = require('C:/Users/17173/AppData/Local/Microsoft/TypeScript/2.9/node_modules/@types/html-webpack-plugin')
+const HtmlWebpackPlungin = require('html-webpack-plugin')
 
 const config = {
   mode: 'development',
